@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb0f9d08-d20c-4004-8d49-7a8826f0e540" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1j1Gg21H2CbIOUruBTF9NlwvNHz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb0f9d08-d20c-4004-8d49-7a8826f0e540" name="Default Changelist" comment="" />
+      <created>1602964291399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602964291399</updated>
+      <workItem from="1602964292413" duration="796000" />
+      <workItem from="1603202933789" duration="304000" />
+      <workItem from="1603203281006" duration="968000" />
+      <workItem from="1603204299636" duration="3696000" />
+      <workItem from="1603257869879" duration="8914000" />
+      <workItem from="1603271057773" duration="5303000" />
+      <workItem from="1603293436479" duration="521000" />
+      <workItem from="1603296483398" duration="9570000" />
+      <workItem from="1603348944092" duration="2434000" />
+      <workItem from="1603380561834" duration="16632000" />
+      <workItem from="1603434461555" duration="17965000" />
+      <workItem from="1603465805391" duration="5798000" />
+      <workItem from="1603477582370" duration="4767000" />
+      <workItem from="1603482363511" duration="81000" />
+      <workItem from="1603482452197" duration="4445000" />
+      <workItem from="1603516228947" duration="19789000" />
+      <workItem from="1603603959056" duration="1874000" />
+      <workItem from="1603608410887" duration="8164000" />
+      <workItem from="1603633052780" duration="22877000" />
+      <workItem from="1603692236525" duration="25329000" />
+      <workItem from="1603802795662" duration="580000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="62" key="#Inspections" timestamp="1603470777229">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="309" y="62" key="#Inspections/0.0.1366.768@0.0.1366.768" timestamp="1603470777229" />
+    <state x="59" y="225" key="#SQL_Dialects" timestamp="1603309808043">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="59" y="225" key="#SQL_Dialects/0.0.1366.768@0.0.1366.768" timestamp="1603309808043" />
+    <state x="275" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603474053760">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1603474053760" />
+    <state x="502" y="0" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1603610065650">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="502" y="0" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1366.768@0.0.1366.768" timestamp="1603610065650" />
+    <state x="363" y="120" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1603604579420">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="363" y="120" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.768@0.0.1366.768" timestamp="1603604579420" />
+    <state x="413" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603387320506">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1603387320506" />
+    <state x="517" y="307" key="NewPhpFileDialog" timestamp="1603729311852">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="517" y="307" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1603729311852" />
+    <state x="184" y="29" key="SettingsEditor" timestamp="1603482443810">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1603482443810" />
+    <state x="234" y="31" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1603610079050">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="234" y="31" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.768@0.0.1366.768" timestamp="1603610079050" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1603473106557">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1603473106557" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1603703961145">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1603703961145" />
+  </component>
+</project>
